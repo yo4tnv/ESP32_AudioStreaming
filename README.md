@@ -11,7 +11,9 @@ BOM:  - ESP32 Wroom - Developement board
 ToDO: - test Opus adaptive variable bitrate codec
       - switch between WAV/Opus streaming
       - password protect interface and stream access
+      - IP access logging
       - design STL printable enclosure
+	  - amplification increase/decrease slide/ AGC checkbox
       - store and graph temp/hum/pressure evolution by day/week/month/year
       - control loads/perform actions via 1-4 relay switches
       - add UTC time to interface
