@@ -2,7 +2,7 @@
 
 Purpose: - listen, stream and capture high quality enviromental audio over internet, sounds of nature, temperature, humidity and pressure of certain place.
 
-How to use : - point your browser to http://<DHCP_allocated_IP of ESP32 or http://<DHCP_allocated_IP/wav using VLC media player
+Usage : - In browser load http://<DHCP_allocated_IP> of ESP32 or http://<DHCP_allocated_IP/wav> on VLC media player
 
 BOM:  - ESP32 Wroom - Developement board
       - ICS 43434 MEMS I2S digital microphone
